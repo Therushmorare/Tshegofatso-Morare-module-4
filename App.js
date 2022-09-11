@@ -5,6 +5,7 @@ import Fly from "./Components/Fly";
 import { ImLocation } from "react-icons/im";
 import "./App.css";
 
+//functionality of the geolocation program was sourced from GeeksForGeeks
 function App() {
 
 // Setting up the state for the latitude
