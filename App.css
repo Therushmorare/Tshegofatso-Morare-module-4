@@ -1,0 +1,23 @@
+.fly {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    height: 100px;
+    color: white;
+    background-color:white;
+    border:1px solid gray;
+    margin-top: 1%;
+    margin-left: 40%;
+    padding: 10px;
+    border-radius: 5px;
+    }
+    .fly button {
+    cursor: pointer;
+    width: 50px;
+    border:1px solid grey;
+    border-radius:5px;
+    color:blue;
+    background-color:white;
+    }
+    
